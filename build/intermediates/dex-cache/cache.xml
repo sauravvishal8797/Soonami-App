@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8ff873f65da9e1bfa17dcc03e9916c8c6b356008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saurav/.android/build-cache/0ea94ff120a994368d1f81ef7fe5b15fb18e8167/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa9f8a48e2a68e28183203efc62a69d0edfa607b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saurav/.android/build-cache/84e0f707ebcbf1012bf6868df9b7f4c49694162d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df58715b0248b0cadc1d5a0b29f252bb8ddcd437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saurav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_24d6ea86748fc16a98366d094e12384ef4377520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saurav/.android/build-cache/fd1e06f60a0ffaf4096262d1a2f56c145c8cf810/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8eb2e63337940fc35aa55292c65477ecb81bd417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736f550f4d4210e3a5fb01fcad32e249ae28b787">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0f062e367d38f7f1d196130a0cf39b6e88bd31ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saurav/.android/build-cache/ac0b9a79384d80c346d556ed5e32bd292c12b6af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85763e2de2b1be13895d10e1844a772599014ebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saurav/.android/build-cache/84e0f707ebcbf1012bf6868df9b7f4c49694162d/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/saurav/Desktop/ud843_Soonami-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b8b5026465d77a1451d8c9007521ec2d12e88b19/classes.dex" />
+    </item>
+
+</items>
